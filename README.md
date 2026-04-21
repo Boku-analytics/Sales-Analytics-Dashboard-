@@ -13,6 +13,9 @@ Standardized column names
 Ensured correct data types (numeric, date)
 Created calculated fields like Total Sales and Profit
 
+<img width="1429" height="804" alt="image" src="https://github.com/user-attachments/assets/aa293c5a-5e31-4c73-8028-93a8ec9958c0" />
+
+
 Tools & Technologies
 Microsoft Excel (Pivot Tables & Charts)
 Power BI (Dashboard & Visualization
